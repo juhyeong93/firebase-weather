@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "juhyeong-weather",
+    "juhyeong-weather": "juhyeong-weather"
+  }
+}
